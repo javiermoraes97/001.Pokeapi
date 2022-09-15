@@ -19,7 +19,7 @@ Ya después si le quieres agregar filtros por tipos y poner bajo el detalle poke
 - [ ]  Poner bajo el detalle pokemons similares
 - [ ]  La evolución
 
-# Cosas por usar
+# Tecnologias por usar
 
 - [ ]  Github
 - [ ]  Html
@@ -34,4 +34,9 @@ Ya después si le quieres agregar filtros por tipos y poner bajo el detalle poke
 
 # Cosas Aprendidas
 
-- [ ]
+- [ ] Crear Variables en CSS "Declararlas siempre en root en caso de que sean globales"
+- [ ] Flex Box
+- [ ] Grid
+- [ ] BEM - Bloque Element Modifier
+- [ ] Scope
+- [ ] specificity

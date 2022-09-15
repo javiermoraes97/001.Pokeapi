@@ -1,0 +1,21 @@
+:root {
+    --main-color: #84a45a;
+    --accent-color: #52733b;
+    --first-color: #715e4e;
+    --second-color: #242526;
+    --third-color: #e4ebf2;
+}
+
+body {
+    background: rgb(85, 144, 189);
+    background: linear-gradient(
+        90deg,
+        rgba(85, 144, 189, 1) 0%,
+        rgba(182, 216, 242, 1) 80%
+    );
+    text-align: center;
+}
+
+.mainContainer {
+    background-color: var(--main-color);
+}
