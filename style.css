@@ -6,6 +6,11 @@
     --third-color: #e4ebf2;
 }
 
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
 body {
     background-color: var(--main-color);
 }
@@ -33,4 +38,38 @@ body {
     padding: 10px;
     border-radius: 10px;
     box-shadow: 5px 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.mainNamePokemon {
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+
+.mainContainerPage {
+    display: flex;
+    width: 240px;
+    margin: 20px auto;
+    padding: 5px;
+    list-style: none;
+    text-align: center;
+}
+
+.mainItemPage {
+    margin:0 10px;
+    padding: 5px 10px;
+    background-color: var(--third-color);
+    border-radius: 5px;
+    width: 100%;
+    color: var(--second-color);    
+    box-shadow: 5px 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+.mainItemPage:hover {
+    background-color: var(--accent-color);
+    color: var(--third-color);
+}
+
+.mainItemPage:hover > a{
+    color: var(--third-color);
 }
