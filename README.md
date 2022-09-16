@@ -40,3 +40,7 @@ Ya después si le quieres agregar filtros por tipos y poner bajo el detalle poke
 - [ ] BEM - Bloque Element Modifier
 - [ ] Scope
 - [ ] specificity
+
+# Extra info
+
+I Delete all the information because isnt of my authority so ill do it with my own terms and own way
